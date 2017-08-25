@@ -1,0 +1,11 @@
+[options]
+
+font = Mono 9
+
+
+[colors]
+foreground = #E4A932
+background = rgba(38, 38, 38, 0.85)
+
+color235 =rgba(38, 38, 38, 0.85)
+
