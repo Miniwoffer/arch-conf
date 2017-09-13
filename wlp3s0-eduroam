@@ -1,0 +1,8 @@
+Description='Automatically generated profile by wifi-menu'
+Interface=wlp3s0
+Connection=wireless
+Security=wpa-config
+WPAConfigFile='/etc/netctl/eduroam.conf'
+ESSID=eduroam
+IP=dhcp
+
